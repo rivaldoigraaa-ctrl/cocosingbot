@@ -1,0 +1,17 @@
+API_ID=35301404
+API_HASH=a65fd85bec2fdda1f85a63e4395c8765
+BOT_TOKEN=8819419525:AAGyHPDzdQxjpfbe8cFMJ5EPm0RGhR3Bhzw
+STRING_SESSION=AQIaqBwAj_0bXgjgwxDw5lcXKQtkwaBMLwJqyUvBQ-Sb747EFQ5LeJm70jwzjpVgs4w3RMIlD01AJBDWjuzcWDtWHLEnxvTFQ7pQDZ6H4dpkylBvhVVKq2TNNz8ggNd2T4jQGxPAM_jGsdg2viZwUpYQM35bsAtFcBDEm-ULu2LBgHyHAlxdca11M-Z8OsXS1m2JnS3xnnEe7112x-p6BrWA2Ac7i1GrVfCYrDIAIeHt7117sHxEDS2_NVR_jrPBuF0DfMTM4uvLfJKR0BYOI9Wfoopd6QLtbSi13qDBaSO0HEKXZjA_oKuJNt0B2PkDqNenRzGZEnvVno50HA3onV6-D6_uHgAAAAH6pXNkAA
+LOG_GROUP_ID=-1003715422760
+OWNER_ID=8500114276
+MONGO_DB_URI=mongodb+srv://likeeadii80_db_user:BvxekuzSBMuULZmv@cluster0.08xzqdo.mongodb.net/?appName=Cluster0
+API_KEY=ZEXXY1NEXOR
+API_URL=https://a60176-682e.d.onjrnm.link
+API_TYPE=audio
+API_FORMAT=mp3
+SUPPORT_URL=https://t.me/coc0chats
+CHANNEL_URL=https://t.me/cocoxpy
+OWNER_URL=http://t.me/coconfx
+# Render deploy karte waqt yeh apne aap set ho jaata hai — manually chhod do khaali
+RENDER_EXTERNAL_URL=
+PING_INTERVAL=600
